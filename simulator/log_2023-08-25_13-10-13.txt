@@ -1,0 +1,85 @@
+sensing starting...
+sensorid: tm1,temp: 25.13
+sensorid: tm1,temp: 25.19
+sensorid: tm1,temp: 25.13
+sensorid: tm1,temp: 25.13
+sensorid: tm1,temp: 25.13
+sensorid: tm1,temp: 25.19
+sensorid: tm1,temp: 25.13
+sensorid: tm1,temp: 25.13
+sensorid: tm1,temp: 25.19
+sensorid: tm1,temp: 25.19
+sensorid: ph1,phValue: 3.672
+sensorid: ph1,phValue: *ER
+sensorid: ph1,phValue: 3.673
+sensorid: ph1,phValue: 3.673
+sensorid: ph1,phValue: 3.674
+sensorid: ph1,phValue: 3.675
+sensorid: ph1,phValue: 3.672
+sensorid: ph1,phValue: 3.670
+sensorid: ph1,phValue: 3.672
+sensorid: ph1,phValue: 3.677
+sensorid: ph1,phValue: 3.678
+sensorid: ph2,ori: 397,phValue: 7.36
+sensorid: ph2,ori: 397,phValue: 7.36
+sensorid: ph2,ori: 398,phValue: 7.41
+sensorid: ph2,ori: 396,phValue: 7.31
+sensorid: ph2,ori: 398,phValue: 7.41
+sensorid: ph2,ori: 396,phValue: 7.31
+sensorid: ph2,ori: 396,phValue: 7.31
+sensorid: ph2,ori: 397,phValue: 7.36
+sensorid: ph2,ori: 396,phValue: 7.31
+sensorid: ph2,ori: 396,phValue: 7.31
+sensorid: ec1,ecValue: *ER
+sensorid: ec1,ecValue: 1700
+sensorid: ec1,ecValue: 1705
+sensorid: ec1,ecValue: 1701
+sensorid: ec1,ecValue: 1708
+sensorid: ec1,ecValue: 1701
+sensorid: ec1,ecValue: 1700
+sensorid: ec1,ecValue: 1706
+sensorid: ec1,ecValue: 1701
+sensorid: ec1,ecValue: 1700
+sensorid: ec1,ecValue: 1705
+_kvalue:1.00
+sensorid: ec2,voltage: 0.00,temperature: 25.12^C,EC: 0.00ms/cm
+sensorid: ec2,voltage: 0.00,temperature: 25.12^C,EC: 0.00ms/cm
+sensorid: ec2,voltage: 0.00,temperature: 25.12^C,EC: 0.00ms/cm
+sensorid: ec2,voltage: 0.00,temperature: 25.12^C,EC: 0.00ms/cm
+sensorid: ec2,voltage: 0.00,temperature: 25.12^C,EC: 0.00ms/cm
+sensorid: ec2,voltage: 0.00,temperature: 25.12^C,EC: 0.00ms/cm
+sensorid: ec2,voltage: 0.00,temperature: 25.12^C,EC: 0.00ms/cm
+sensorid: ec2,voltage: 0.00,temperature: 25.06^C,EC: 0.00ms/cm
+sensorid: ec2,voltage: 0.00,temperature: 25.12^C,EC: 0.00ms/cm
+sensorid: ec2,voltage: 0.00,temperature: 25.12^C,EC: 0.00ms/cm
+sensorid: moi2,ori: 463,moiValue: 1%
+sensorid: moi2,ori: 462,moiValue: 2%
+sensorid: moi2,ori: 462,moiValue: 2%
+sensorid: moi2,ori: 464,moiValue: 1%
+sensorid: moi2,ori: 465,moiValue: 0%
+sensorid: moi2,ori: 462,moiValue: 2%
+sensorid: moi2,ori: 461,moiValue: 2%
+sensorid: moi2,ori: 463,moiValue: 1%
+sensorid: moi2,ori: 461,moiValue: 2%
+sensorid: moi2,ori: 462,moiValue: 2%
+sensorid: orp1,ori: 405,orpValue: 364.37
+sensorid: orp1,ori: 404,orpValue: 362.09
+sensorid: orp1,ori: 404,orpValue: 362.09
+sensorid: orp1,ori: 403,orpValue: 359.81
+sensorid: orp1,ori: 405,orpValue: 364.37
+sensorid: orp1,ori: 401,orpValue: 355.25
+sensorid: orp1,ori: 403,orpValue: 359.81
+sensorid: orp1,ori: 403,orpValue: 359.81
+sensorid: orp1,ori: 400,orpValue: 352.96
+sensorid: orp1,ori: 401,orpValue: 355.25
+offset: 24mV
+sensorid: orp2, orpValue: 111.99mV
+sensorid: orp2, orpValue: 133.35mV
+sensorid: orp2, orpValue: 140.06mV
+sensorid: orp2, orpValue: 144.95mV
+sensorid: orp2, orpValue: 146.17mV
+sensorid: orp2, orpValue: 144.34mV
+sensorid: orp2, orpValue: 144.95mV
+sensorid: orp2, orpValue: 144.95mV
+sensorid: orp2, orpValue: 151.66mV
+sensorid: orp2, orpValue: 148.00mV
