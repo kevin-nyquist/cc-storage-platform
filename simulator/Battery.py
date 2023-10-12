@@ -1,4 +1,4 @@
-
+import time
 
 
 class Battery:
@@ -10,10 +10,12 @@ class Battery:
     
     """
     
-    def __init__(self, soc, capacity, base_consume):
+    def __init__(self, soc, capacity, base_consume, is_monitored, monitoring_interval):
         self.soc = soc
         self.capacity = capacity
         self.base_consume = base_consume
+        self.is_monitored = is_monitored
+        self.monitoring_interval = monitoring_interval
         
     
     def drain(self, drain):
@@ -25,3 +27,8 @@ class Battery:
         soc = self.soc + gain
         self.soc = [soc,self.capacity][soc>self.capacity]
         
+
+    def monitor_battery_level(self):
+        while self.is_monitored:
+            print(f"Current battery level: {self.soc}")
+            time.sleep(self.monitoring_interval)

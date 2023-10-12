@@ -1,28 +1,10 @@
-Line 1: 2023-10-09 21:35:56 - sensing starting...
-Line 2: 2023-10-09 21:35:57 - sensorid: tm1,temp: 25.13
-Line 3: 2023-10-09 21:35:58 - sensorid: tm1,temp: 25.19
-Line 4: 2023-10-09 21:35:59 - sensorid: tm1,temp: 25.13
-Line 5: 2023-10-09 21:36:00 - sensorid: tm1,temp: 25.13
-Line 6: 2023-10-09 21:36:01 - sensorid: tm1,temp: 25.13
-Line 7: 2023-10-09 21:36:02 - sensorid: tm1,temp: 25.19
-Line 8: 2023-10-09 21:36:03 - sensorid: tm1,temp: 25.13
-Line 9: 2023-10-09 21:36:04 - sensorid: tm1,temp: 25.13
-Line 10: 2023-10-09 21:36:05 - sensorid: tm1,temp: 25.19
-Line 11: 2023-10-09 21:36:06 - sensorid: tm1,temp: 25.19
-Line 12: 2023-10-09 21:36:07 - sensorid: ph1,phValue: 3.672
-Line 13: 2023-10-09 21:36:08 - sensorid: ph1,phValue: *ER
-Line 14: 2023-10-09 21:36:09 - sensorid: ph1,phValue: 3.673
-Line 15: 2023-10-09 21:36:10 - sensorid: ph1,phValue: 3.673
-Line 16: 2023-10-09 21:36:11 - sensorid: ph1,phValue: 3.674
-Line 17: 2023-10-09 21:36:12 - sensorid: ph1,phValue: 3.675
-Line 18: 2023-10-09 21:36:13 - sensorid: ph1,phValue: 3.672
-Line 19: 2023-10-09 21:36:14 - sensorid: ph1,phValue: 3.670
-Line 20: 2023-10-09 21:36:15 - sensorid: ph1,phValue: 3.672
-Line 21: 2023-10-09 21:36:16 - sensorid: ph1,phValue: 3.677
-Line 22: 2023-10-09 21:36:17 - sensorid: ph1,phValue: 3.678
-Line 23: 2023-10-09 21:36:18 - sensorid: ph2,ori: 397,phValue: 7.36
-Line 24: 2023-10-09 21:36:19 - sensorid: ph2,ori: 397,phValue: 7.36
-Line 25: 2023-10-09 21:36:20 - sensorid: ph2,ori: 398,phValue: 7.41
-Line 26: 2023-10-09 21:36:21 - sensorid: ph2,ori: 396,phValue: 7.31
-Line 27: 2023-10-09 21:36:22 - sensorid: ph2,ori: 398,phValue: 7.41
-Line 28: 2023-10-09 21:36:23 - sensorid: ph2,ori: 396,phValue: 7.31
+Line 1: 2023-10-11 23:38:44 - sensing starting...
+Line 2: 2023-10-11 23:38:44 - sensorid: tm1,temp: 25.13
+Line 3: 2023-10-11 23:38:45 - sensorid: tm1,temp: 25.19
+Line 4: 2023-10-11 23:38:45 - sensorid: tm1,temp: 25.13
+Line 5: 2023-10-11 23:38:46 - sensorid: tm1,temp: 25.13
+Line 6: 2023-10-11 23:38:46 - sensorid: tm1,temp: 25.13
+Line 7: 2023-10-11 23:38:47 - sensorid: tm1,temp: 25.19
+Line 8: 2023-10-11 23:38:47 - sensorid: tm1,temp: 25.13
+Line 9: 2023-10-11 23:38:48 - sensorid: tm1,temp: 25.13
+Line 10: 2023-10-11 23:38:48 - sensorid: tm1,temp: 25.19
