@@ -21,7 +21,8 @@ def battery_monitor() :
     battery_measure_thread.start()
     
     # call reading sensor data
-    battery.soc = reading.read_and_save(battery.soc)
+    # battery.soc = reading.read_and_save(battery.soc)
+    reading.read_and_save(battery)
 
     # end thread
     battery.is_monitored = False
@@ -30,7 +31,7 @@ def battery_monitor() :
 
 
 def full_drain() :
-    battery.drain(battery.soc)
+    battery.drain(battery)
 
 def main():
     # initial battery level

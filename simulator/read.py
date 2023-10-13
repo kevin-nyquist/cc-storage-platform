@@ -10,7 +10,7 @@ class Reading():
         self.input_file = input_file
         self.output_file = output_file
 
-    def read_and_save(self, battery_level):
+    def read_and_save(self, battery):
         with open(self.input_file, 'r') as f_input, open(self.output_file, 'w') as f_output:
             line_number = 0
             for line in f_input:
@@ -19,14 +19,14 @@ class Reading():
                 reading_context = f"Line {line_number}: {timestamp} - {line}"
                 f_output.write(reading_context)
                 time.sleep(0.5)
-                battery_level -= 10
+                battery.soc -= 10
                 # manual failure at 3900 SOC
-                if(battery_level == 3900) :
-                    battery_level = 0
-                if(battery_level <= Reading.FAILURE_POINT) :
+                if(battery.soc == 3700) :
+                    battery.soc = 0
+                if(battery.soc <= Reading.FAILURE_POINT) :
                     os.system("python3 close.py")
-                    return battery_level
-            return battery_level
+                    return battery.soc
+            return battery.soc
 				
 # if __name__ == "__main__":
 #def run_sensors() :
