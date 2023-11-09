@@ -1,10 +1,30 @@
-Line 1: 2023-10-11 23:38:44 - sensing starting...
-Line 2: 2023-10-11 23:38:44 - sensorid: tm1,temp: 25.13
-Line 3: 2023-10-11 23:38:45 - sensorid: tm1,temp: 25.19
-Line 4: 2023-10-11 23:38:45 - sensorid: tm1,temp: 25.13
-Line 5: 2023-10-11 23:38:46 - sensorid: tm1,temp: 25.13
-Line 6: 2023-10-11 23:38:46 - sensorid: tm1,temp: 25.13
-Line 7: 2023-10-11 23:38:47 - sensorid: tm1,temp: 25.19
-Line 8: 2023-10-11 23:38:47 - sensorid: tm1,temp: 25.13
-Line 9: 2023-10-11 23:38:48 - sensorid: tm1,temp: 25.13
-Line 10: 2023-10-11 23:38:48 - sensorid: tm1,temp: 25.19
+Line 1: 2023-10-12 21:21:31 - sensing starting...
+Line 2: 2023-10-12 21:21:32 - sensorid: tm1,temp: 25.13
+Line 3: 2023-10-12 21:21:32 - sensorid: tm1,temp: 25.19
+Line 4: 2023-10-12 21:21:33 - sensorid: tm1,temp: 25.13
+Line 5: 2023-10-12 21:21:33 - sensorid: tm1,temp: 25.13
+Line 6: 2023-10-12 21:21:34 - sensorid: tm1,temp: 25.13
+Line 7: 2023-10-12 21:21:34 - sensorid: tm1,temp: 25.19
+Line 8: 2023-10-12 21:21:35 - sensorid: tm1,temp: 25.13
+Line 9: 2023-10-12 21:21:35 - sensorid: tm1,temp: 25.13
+Line 10: 2023-10-12 21:21:36 - sensorid: tm1,temp: 25.19
+Line 11: 2023-10-12 21:21:36 - sensorid: tm1,temp: 25.19
+Line 12: 2023-10-12 21:21:37 - sensorid: ph1,phValue: 3.672
+Line 13: 2023-10-12 21:21:37 - sensorid: ph1,phValue: *ER
+Line 14: 2023-10-12 21:21:38 - sensorid: ph1,phValue: 3.673
+Line 15: 2023-10-12 21:21:38 - sensorid: ph1,phValue: 3.673
+Line 16: 2023-10-12 21:21:39 - sensorid: ph1,phValue: 3.674
+Line 17: 2023-10-12 21:21:39 - sensorid: ph1,phValue: 3.675
+Line 18: 2023-10-12 21:21:40 - sensorid: ph1,phValue: 3.672
+Line 19: 2023-10-12 21:21:40 - sensorid: ph1,phValue: 3.670
+Line 20: 2023-10-12 21:21:41 - sensorid: ph1,phValue: 3.672
+Line 21: 2023-10-12 21:21:41 - sensorid: ph1,phValue: 3.677
+Line 22: 2023-10-12 21:21:42 - sensorid: ph1,phValue: 3.678
+Line 23: 2023-10-12 21:21:42 - sensorid: ph2,ori: 397,phValue: 7.36
+Line 24: 2023-10-12 21:21:43 - sensorid: ph2,ori: 397,phValue: 7.36
+Line 25: 2023-10-12 21:21:43 - sensorid: ph2,ori: 398,phValue: 7.41
+Line 26: 2023-10-12 21:21:44 - sensorid: ph2,ori: 396,phValue: 7.31
+Line 27: 2023-10-12 21:21:44 - sensorid: ph2,ori: 398,phValue: 7.41
+Line 28: 2023-10-12 21:21:45 - sensorid: ph2,ori: 396,phValue: 7.31
+Line 29: 2023-10-12 21:21:45 - sensorid: ph2,ori: 396,phValue: 7.31
+Line 30: 2023-10-12 21:21:46 - sensorid: ph2,ori: 397,phValue: 7.36
