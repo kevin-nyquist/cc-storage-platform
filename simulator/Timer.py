@@ -18,6 +18,8 @@ class Timer:
     def backward(self, step):
         self.curr_time -= step
 
+    def sum(self, step):
+        return self.curr_time + step
 
 
 
