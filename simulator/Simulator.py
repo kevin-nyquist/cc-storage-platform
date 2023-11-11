@@ -47,7 +47,7 @@ class Simulator:
             self.battery.battery_monitor()
 
             start = time.perf_counter()
-            self.reading.read_and_save(self.battery)
+            self.reading.read_and_save2(self.battery)
             end = time.perf_counter()
             print(f"Total time taken: {end - start} seconds")
             self.battery.stop_monitoring()

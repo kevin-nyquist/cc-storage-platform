@@ -37,6 +37,9 @@ def main():
     # initial battery level
     # print(f"Initial SOC:{battery.soc}")
 
+    # initialize simulator with parameters set
+    # run the simulator
+
     start = time.perf_counter()
     battery_monitor()
     end = time.perf_counter()
