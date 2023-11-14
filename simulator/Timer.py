@@ -18,7 +18,7 @@ class Timer:
     def backward(self, step):
         self.curr_time -= step
 
-    def sum(self, step):
+    def calculate_window(self, step):
         return self.curr_time + step
 
 

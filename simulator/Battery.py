@@ -46,7 +46,7 @@ class Battery:
             print("Unplugged.")
 
     def battery_monitor(self) :
-        # Start of monitoring thread to check the SOC of the battery at a specified interval
+        # Start of monitoring thread to check the charge of the battery at a specified interval
         battery_measure_thread = threading.Thread(daemon=True, target=self.monitor_battery_level)
         battery_measure_thread.start()
 
